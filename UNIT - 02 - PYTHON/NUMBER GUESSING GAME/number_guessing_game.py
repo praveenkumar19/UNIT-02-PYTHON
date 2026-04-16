@@ -1,4 +1,4 @@
-'''print("WELCOME TO NUMBER GUESSSING GAME")
+print("WELCOME TO NUMBER GUESSSING GAME")
 print("IF YOU WANT TO PLAY A GAME WITH ME")
 print("1 = YES ")
 print("2 = NO ")
@@ -89,7 +89,7 @@ if a == 1:
 elif a == 2:
     print("NOT INTERSETED")
 else:
-    print("INVALID NUMBER")'''
+    print("INVALID NUMBER")
 print("Think of a number between 1 and 100.")
 input("Press Enter when you're ready...")
 
